@@ -1,6 +1,6 @@
 # 📡 Chat App with Socket.IO
 
-A realtime, bidirectional chat application built using **Node.js**, **Express**, and **Socket.IO** — enabling instant messaging between users without page reloads. ([Socket.IO][2])
+A realtime, bidirectional chat application built using **Node.js**, **Express**, and **Socket.IO** — enabling instant messaging between users without page reloads.
 
 ---
 
